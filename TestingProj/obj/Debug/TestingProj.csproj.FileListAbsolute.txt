@@ -1,0 +1,11 @@
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\TestingProj\bin\Debug\TestingProj.exe.config
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\TestingProj\obj\Debug\TestingProj.csprojResolveAssemblyReference.cache
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\TestingProj\obj\Debug\TestingProj.Form1.resources
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\TestingProj\obj\Debug\TestingProj.Properties.Resources.resources
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\TestingProj\obj\Debug\TestingProj.csproj.GenerateResource.Cache
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\TestingProj\bin\Debug\TestingProj.exe
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\TestingProj\bin\Debug\TestingProj.pdb
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\TestingProj\bin\Debug\DbaseConnections.dll
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\TestingProj\bin\Debug\DbaseConnections.pdb
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\TestingProj\obj\Debug\TestingProj.exe
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\TestingProj\obj\Debug\TestingProj.pdb

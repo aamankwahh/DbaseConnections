@@ -1,0 +1,7 @@
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\DbaseConnections\bin\Debug\DbaseConnections.dll
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\DbaseConnections\bin\Debug\DbaseConnections.pdb
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\DbaseConnections\obj\Debug\DbaseConnections.csprojResolveAssemblyReference.cache
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\DbaseConnections\obj\Debug\DbaseConnections.dll
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\DbaseConnections\obj\Debug\DbaseConnections.pdb
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\DbaseConnections\obj\Debug\DbaseConnections.Testing.resources
+C:\Users\LEX\Documents\Visual Studio 2013\Projects\2015\DbaseConnections\DbaseConnections\obj\Debug\DbaseConnections.csproj.GenerateResource.Cache
